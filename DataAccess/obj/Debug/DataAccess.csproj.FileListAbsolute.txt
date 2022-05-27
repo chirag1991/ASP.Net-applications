@@ -1,0 +1,9 @@
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\DataAccess\bin\Debug\BusinessObject.dll
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\DataAccess\bin\Debug\BusinessObject.pdb
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,11 @@
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\BusinessLogic\bin\Debug\BusinessObject.dll
+C:\Users\chira\OneDriveCampbellsvilleUniversity\Desktop\Learning\.Net\3TireStoraro\BusinessLogic\bin\Debug\BusinessObject.pdb
