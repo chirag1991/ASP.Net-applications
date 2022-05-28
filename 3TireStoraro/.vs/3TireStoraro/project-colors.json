@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "907d9441-42c7-4d81-9e21-e0e536bd4aac": {
+      "ProjectGuid": "907d9441-42c7-4d81-9e21-e0e536bd4aac",
+      "DisplayName": "BusinessObject",
+      "ColorIndex": 0
+    },
+    "41f08e3c-48aa-49d9-9dd9-3393895780cb": {
+      "ProjectGuid": "41f08e3c-48aa-49d9-9dd9-3393895780cb",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 1
+    },
+    "0b805f70-28f8-4687-b521-3a79a700cde0": {
+      "ProjectGuid": "0b805f70-28f8-4687-b521-3a79a700cde0",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 2
+    },
+    "cc6621a2-1b14-4bf0-ade6-0ff68785062d": {
+      "ProjectGuid": "cc6621a2-1b14-4bf0-ade6-0ff68785062d",
+      "DisplayName": "3TireStorero",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
